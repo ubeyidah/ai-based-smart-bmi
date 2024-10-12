@@ -13,9 +13,8 @@
 
 ## Screenshots
 
-![Home Screen](path_to_home_screen_image)
-![BMI Result](path_to_result_screen_image)
-![Fitness Tips](path_to_fitness_screen_image)
+![Section 1](https://github.com/user-attachments/assets/c53b2dcd-d206-419a-9140-59307d3c177d)
+
 
 ## Getting Started
 
