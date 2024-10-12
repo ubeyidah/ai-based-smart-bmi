@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Smart BMI",
+    "name": "SMART BMI",
     "slug": "smart-bmi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "Smart BMI",
+    "icon": "./assets/images/android-chrome-512x512.png",
+    "scheme": "SMART BMI",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/android-chrome-512x512.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,14 +17,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "../assets/images/android-chrome-512x512.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.ico"
     },
     "plugins": ["expo-router"],
     "experiments": {
